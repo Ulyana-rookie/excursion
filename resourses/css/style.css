@@ -1,0 +1,49 @@
+body {
+    font-family: Verdana, sans-serif;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+a {
+    color: aquamarine;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+h1 {
+    display: block;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+h2 {
+    display: block;
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p{
+    display: block;
+    color: gray;
+    font-size: 21px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+video {
+    display: block;
+    padding-top: 20px;
+    margin: 0 auto;
+}
+
+.app {
+    padding-top: 30px;
+}
+
+.footer {
+    text-align: right;
+}
